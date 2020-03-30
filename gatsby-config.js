@@ -29,6 +29,7 @@ module.exports = {
         name: 'images',
       },
     },
+    'gatsby-plugin-typescript',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
